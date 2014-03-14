@@ -5,6 +5,7 @@ public class GradeBook
 	public void displayMessage(String courseName) //parameterized method.
 		{
 			System.out.printf( "Welcome to the grade book for\n%s!\n", courseName );
+			System.out.println("Minds");
 		}
 }
 
